@@ -55,13 +55,7 @@ Usually, **complex systems are governed by a terse set of basic rules**. So, [si
 
 *Hypothesize ⇒ experiment (preferably a portfolio of* [*bandit*](https://en.wikipedia.org/wiki/Multi-armed_bandit) *experiments) ⇒ analyze ⇒ modify ⇒ iterate ↩*
 
-%[] 
-
 **Experiments** should preferably be:
-
-$\\appr$
-
-$$\\appr$$
 
 $$\displaystyle\lim_{cost\to0}$$
 
