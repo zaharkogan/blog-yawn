@@ -142,7 +142,6 @@ Assesses and tries to **minimize**:
 
 * information content of *z*, latent configurator variable/vector
     
-
 * the "cost" of traversing to next prediction state, i.e. prediction error (may be wrong here)
     
 
@@ -179,17 +178,18 @@ Now the important things
 
 ### YL proposes
 
-*\* Abandon generative models in favor* ***joint-embedding architectures***
-
-*\* Abandon Auto-Regressive generation*
-
-*\* Abandon probabilistic model in favor of* ***energy-based models***
-
-*\* Abandon contrastive methods in favor of* ***regularized methods***
-
-*\* Abandon Reinforcement Learning in favor of* ***model-predictive control***
-
-*\* Use RL only when planning doesn't yield the predicted outcome, to adjust the world model or the critic.*
+* *Abandon generative models in favor* ***joint-embedding architectures***
+    
+* *Abandon Auto-Regressive generation*
+    
+* *Abandon probabilistic model in favor of* ***energy-based models***
+    
+* *Abandon contrastive methods in favor of* ***regularized methods***
+    
+* *Abandon Reinforcement Learning in favor of* ***model-predictive control***
+    
+* *Use RL only when planning doesn't yield the predicted outcome, to adjust the world model or the critic.*
+    
 
 ### YL defines the following steps
 
