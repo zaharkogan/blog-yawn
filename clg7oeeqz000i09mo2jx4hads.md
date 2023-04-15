@@ -1,8 +1,8 @@
 ---
-title: "Yan Lecun and the JEPA of AI"
+title: "Yann Lecun and the JEPA of AI"
 datePublished: Sat Apr 08 2023 07:50:09 GMT+0000 (Coordinated Universal Time)
 cuid: clg7oeeqz000i09mo2jx4hads
-slug: yan-lecun-and-the-jepa-of-ai
+slug: yann-lecun-and-the-jepa-of-ai
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2Ts5HnA67k8/upload/396f3b6cfa0c0f83f490f949fe68eb0d.jpeg
 tags: machine-learning, future, generative-ai, future-of-ai, cognition
 
