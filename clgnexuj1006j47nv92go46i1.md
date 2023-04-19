@@ -63,7 +63,7 @@ So, according to someone, AI is going to steal our jobs. Setting aside con, blow
 
 ## Physical
 
-![Mess with the kitty, get a lightsaber under your titty ](https://dalleproduse2.blob.core.windows.net/private/images/7026ca51-3a4d-44b2-8d38-759f3e591dca/00.png?se=2023-04-18T03%3A52%3A07Z&sig=emgGcKG4KmHO8Z2ufSxWy5YpcXzgdchIzLI%2BIQQ%2F4sk%3D&sp=r&spr=https&sr=b&sv=2020-10-02 align="center")
+![Thumbnail Image ](https://dalleproduse2.blob.core.windows.net/private/images/a54b1f26-a02d-451e-8f40-9ce8ea326b25/00.png?se=2023-04-20T08%3A56%3A22Z&sig=adXU84ZFG2JBOe%2BSAGF9u%2Bn3WVJBdAiyA9w77YESZ2Q%3D&sp=r&spr=https&sr=b&sv=2020-10-02 align="left")
 
 Let's be honest - while you can use an AI for some intern/junior-level jobs (web research, programming) right now, the time for it doing even home chores is yet to come: a [study had estimated ~40% of home chores being automated](https://www.weforum.org/agenda/2023/04/ai-housework-gender-gap-robots/) in a decade. Yeah-yeah, we've entered the phase of self-improvement, yada yada - but still.
 
